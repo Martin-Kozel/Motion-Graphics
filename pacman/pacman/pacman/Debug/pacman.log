@@ -1,0 +1,12 @@
+﻿  Game.cpp
+C:\Users\marti\Desktop\2y2s\Motion Graphics\pacman\pacman\pacman\Game.cpp(186,70): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\marti\Desktop\2y2s\Motion Graphics\pacman\pacman\pacman\Game.cpp(186,50): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  pacman.vcxproj -> C:\Users\marti\Desktop\2y2s\Motion Graphics\pacman\pacman\Debug\pacman.exe
