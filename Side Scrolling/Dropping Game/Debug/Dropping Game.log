@@ -1,0 +1,20 @@
+﻿  Game.cpp
+C:\Users\marti\Desktop\2y2s\Motion Graphics\Side Scrolling\Dropping Game\Game.cpp(65,51): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\marti\Desktop\2y2s\Motion Graphics\Side Scrolling\Dropping Game\Game.cpp(214,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marti\Desktop\2y2s\Motion Graphics\Side Scrolling\Dropping Game\Game.cpp(214,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marti\Desktop\2y2s\Motion Graphics\Side Scrolling\Dropping Game\Game.cpp(222,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marti\Desktop\2y2s\Motion Graphics\Side Scrolling\Dropping Game\Game.cpp(222,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marti\Desktop\2y2s\Motion Graphics\Side Scrolling\Dropping Game\Game.cpp(228,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marti\Desktop\2y2s\Motion Graphics\Side Scrolling\Dropping Game\Game.cpp(228,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marti\Desktop\2y2s\Motion Graphics\Side Scrolling\Dropping Game\Game.cpp(237,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marti\Desktop\2y2s\Motion Graphics\Side Scrolling\Dropping Game\Game.cpp(237,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marti\Desktop\2y2s\Motion Graphics\Side Scrolling\Dropping Game\Game.cpp(246,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marti\Desktop\2y2s\Motion Graphics\Side Scrolling\Dropping Game\Game.cpp(246,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marti\Desktop\2y2s\Motion Graphics\Side Scrolling\Dropping Game\Game.cpp(254,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marti\Desktop\2y2s\Motion Graphics\Side Scrolling\Dropping Game\Game.cpp(254,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marti\Desktop\2y2s\Motion Graphics\Side Scrolling\Dropping Game\Game.cpp(263,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marti\Desktop\2y2s\Motion Graphics\Side Scrolling\Dropping Game\Game.cpp(263,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marti\Desktop\2y2s\Motion Graphics\Side Scrolling\Dropping Game\Game.cpp(313,47): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\marti\Desktop\2y2s\Motion Graphics\Side Scrolling\Dropping Game\Game.cpp(359,34): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\marti\Desktop\2y2s\Motion Graphics\Side Scrolling\Dropping Game\Game.cpp(366,27): warning C4305: '=': truncation from 'double' to 'float'
+  Dropping Game.vcxproj -> C:\Users\marti\Desktop\2y2s\Motion Graphics\Side Scrolling\Debug\lab2.exe
