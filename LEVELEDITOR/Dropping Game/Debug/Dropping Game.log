@@ -1,0 +1,9 @@
+﻿  Game.cpp
+C:\Users\marti\Desktop\2y2s\Motion Graphics\LEVELEDITOR\Dropping Game\Game.cpp(56,48): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\marti\Desktop\2y2s\Motion Graphics\LEVELEDITOR\Dropping Game\Game.cpp(110,37): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\marti\Desktop\2y2s\Motion Graphics\LEVELEDITOR\Dropping Game\Game.cpp(146,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marti\Desktop\2y2s\Motion Graphics\LEVELEDITOR\Dropping Game\Game.cpp(146,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\marti\Desktop\2y2s\Motion Graphics\LEVELEDITOR\Dropping Game\Game.cpp(216,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\marti\Desktop\2y2s\Motion Graphics\LEVELEDITOR\Dropping Game\Game.cpp(222,17): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\marti\Desktop\2y2s\Motion Graphics\LEVELEDITOR\Dropping Game\Game.cpp(233,13): warning C4305: '=': truncation from 'double' to 'float'
+  Dropping Game.vcxproj -> C:\Users\marti\Desktop\2y2s\Motion Graphics\LEVELEDITOR\Debug\lab2.exe
